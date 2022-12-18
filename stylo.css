@@ -20,8 +20,7 @@
 
 /*  Home   inicio  */
 .home{
-    display: flex;
-    background: url(./assets/img/FULL-STACK-WEB-DEVELOPER.jpg) no-repeat;
+    background: url(./assets/img/banner01.png) no-repeat;
     background-size: cover;
     height: 100%;
     color: #fff;
